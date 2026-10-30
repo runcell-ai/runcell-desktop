@@ -10,4 +10,4 @@ Download Runcell Desktop 0.3.8 from the [latest release](https://github.com/runc
 | macOS | Apple Silicon | [DMG](https://github.com/runcell-ai/runcell-desktop/releases/download/v0.3.8/Runcell-0.3.8-mac-arm64.dmg) |
 | macOS | Intel | [DMG](https://github.com/runcell-ai/runcell-desktop/releases/download/v0.3.8/Runcell-0.3.8-mac-x64.dmg) |
 
-Windows installers are unsigned. Linux packages are validated on Ubuntu 24.04; Deb uses the installed sandbox. See [0.3.8 release notes and verification](releases/0.3.8.md) for AppImage policy requirements, update behavior and checksums.
+Windows installers are unsigned. Linux packages are validated on Ubuntu 24.04; Deb is tested with normal application launch flags. See [0.3.8 release notes and verification](releases/0.3.8.md) for AppImage policy requirements, update behavior and checksums.
